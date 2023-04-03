@@ -30,7 +30,7 @@ Screenshots :
 
 <img width="200" heigth="300" src= "https://user-images.githubusercontent.com/62323108/229517812-794d5531-1f50-4311-a1c1-3ecf9184c9b1.jpg">
 
-<img width="200" heigth="300" src= "https://user-images.githubusercontent.com/62323108/229517826-d1b816de-9ae6-4b78-a568-03826fe2f022.jpg">
+<img width="200"  src= "https://user-images.githubusercontent.com/62323108/229517826-d1b816de-9ae6-4b78-a568-03826fe2f022.jpg">
 
 <img width="667" src= "https://user-images.githubusercontent.com/62323108/229517829-fb2bfd3e-de21-4f73-8508-76af3c28af83.jpg">
 
